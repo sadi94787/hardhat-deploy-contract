@@ -7,7 +7,7 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/dovilo/hardhat-deploy-contract.git
+git clone https://github.com/sadi94787/hardhat-deploy-contract.git
 ```
 
 ```
